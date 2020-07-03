@@ -1,5 +1,5 @@
 # kuaishouXJJ
-随机播放,带视频源库,此库长期更新
+快手小姐姐随机播放,带视频源库,播放列表长期更新
 
 ## 1.搭建
 
@@ -11,7 +11,7 @@ php空间即可,无需数据库,视频源在ks.txt
 
 * [https://ssl-xiaoboke.cloud.okteto.net/](https://ssl-xiaoboke.cloud.okteto.net/)
 
-### 3.视频列表的获取
+### 3.播放列表的获取
   
   * 方法1:下载本项目的ks.txt(更新时间较长)
   * 方法2:直接从服务器下载:[https://ssl-xiaoboke.cloud.okteto.net/ks.txt](https://ssl-xiaoboke.cloud.okteto.net/ks.txt)
@@ -26,4 +26,4 @@ php空间即可,无需数据库,视频源在ks.txt
   
   但是解析结果会被记录,并更定期新到本项目的ks.txt
   
-  所以本项目的播放列表是**不断更新**的
+  本项目的播放列表是**不断更新**的
