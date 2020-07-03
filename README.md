@@ -16,7 +16,9 @@ php空间即可,无需数据库,视频源在ks.txt
   * 方法1:下载本项目的ks.txt(更新时间较长)
   * 方法2:直接从服务器下载:[https://ssl-xiaoboke.cloud.okteto.net/ks.txt](https://ssl-xiaoboke.cloud.okteto.net/ks.txt)
   * 方法3:更直接的使用:https://ssl-xiaoboke.cloud.okteto.net/video.php
+     ```
      <video id="player" src="https://ssl-xiaoboke.cloud.okteto.net/video.php" controls webkit-playsinline playsinline></video>
+     ```
  
  ### 3.视频源解析+列表更新
 
